@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:bisque;
+    font-size: 16px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    word-spacing: 3px;
+}
+
+h1, h2, h3{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    color: maroon;
+}
+  
+.time-title-cotainer, li,p{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: left;
+  }
+
+img{
+    border-radius: 10px;
+}
+
+#container{
+    padding: 100px;
+    margin:  100px 300px 100px 300px;
+    border-radius: 10px;
+    background-color:white;
+}
+
+.preperation-container{
+    padding: 10px;
+    border-radius: 10px;
+    background-color:mistyrose;
+}
+
+.ingredients-container{
+    padding: 10px;
+}
+
+b{
+    color: maroon;
+}
